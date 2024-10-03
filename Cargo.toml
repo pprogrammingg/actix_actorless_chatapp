@@ -1,5 +1,5 @@
 [package]
-name = "actix_actorless_chatapp"
+name = "actix_actorless_websocket"
 version = "0.1.0"
 edition = "2021"
 
